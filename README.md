@@ -1,0 +1,1 @@
+# D1.6.1_Django_project_progect_dir
